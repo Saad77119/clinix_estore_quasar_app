@@ -1,0 +1,12 @@
+{
+  "name": "e-clinix",
+  "version": "0.0.1",
+  "description": "Estore app for clinix",
+  "author": "Tayyab Rasool <tayyabrasool733@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
